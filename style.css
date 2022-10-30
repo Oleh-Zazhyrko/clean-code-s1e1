@@ -21,9 +21,11 @@
 }
 
 @media (max-width: 768px) {
+
 	.title-image {
 		text-align: center;
 	}
+  
 }
 
 .centered-element {
