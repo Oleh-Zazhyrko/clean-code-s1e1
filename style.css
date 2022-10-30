@@ -16,7 +16,7 @@
 	width: 100%;
 }
 
-.title-image .more-inf {
+.title-image__more-inf {
 	font-family: fantasy, cursive;
 }
 
@@ -28,7 +28,7 @@
 
 }
 
-.centered-element {
+.main-section {
 	display: block;
 	width: 500px;
 	margin: 0 auto 0;
@@ -40,7 +40,7 @@
 	flex-grow: 1;
 }
 
-.task-row-wrapper {
+.main-section__task-wrapper {
 	display: flex;
 }
 
@@ -77,7 +77,7 @@ button {
 }
 
 /* Heading */
-.tasks-title,
+.main-section__tasks-title,
 label[for="new-task"] {
 	color: #333;
 	font-weight: 700;
